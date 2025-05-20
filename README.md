@@ -14,11 +14,9 @@ My Website: Segera Hadir!!!
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-## Back End Stack
+## Web Stack
 ![Node JS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-## Front End Stack
 ![Nuxt](https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
